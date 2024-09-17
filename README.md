@@ -37,5 +37,5 @@ This Python application provides a simple yet effective Contact Management Syste
 
 ## Example
 
-When you enter a new contact with the name "John Doe", phone number "1234567890", and email "john.doe@example.com", and click "Add", the contact will be saved and displayed in the contact list. You can then view, edit, or delete the contact as needed.
+When you enter a new contact with the name "suhas", phone number "1234567890", and email "suhas@example.com", and click "Add", the contact will be saved and displayed in the contact list. You can then view, edit, or delete the contact as needed.
 
